@@ -14,6 +14,7 @@ This repository contains the automation scripts and configuration steps to set u
 └── logs.txt           # Output logs from system package updates and installations
 
 ```
+<img width="1536" height="1024" alt="ChatGPT Image Jul 9, 2026, 03_09_10 PM" src="https://github.com/user-attachments/assets/d2193f9d-d2a6-4331-bb34-1a22cf162eac" />
 
 ---
 
